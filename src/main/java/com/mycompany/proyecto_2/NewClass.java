@@ -9,5 +9,5 @@ package com.mycompany.proyecto_2;
  * @author CCCU
  */
 public class NewClass {
-    int x;
+    int xxx;
 }
